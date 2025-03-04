@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Josie-OS
-- 👀 I’m interested in ... open source data journalism, encyrption and quantum computing
+- 👀 I’m interested in ... open source data journalism, encyrption, quantum computing and deep learning
 - 🌱 I’m currently learning ... python3
 - 💞️ I’m looking to collaborate on ... open source investigative journalism
 - ⚡ Until every cage is free...
