@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Josie-OS
-- 👀 I’m interested in ... open source data journalism, encyrption, quantum computing and deep learning
-- 🌱 I’m currently learning ... python3
-- 💞️ I’m looking to collaborate on ... open source investigative journalism
+- 👋 Hi, I’m @Josie-OS 
+- Python Developer, OSINT, Deep Learning
+- 🌱 I’m currently learning ... python3 and linear algebra 
 - ⚡ Until every cage is free...
 
 <!---
